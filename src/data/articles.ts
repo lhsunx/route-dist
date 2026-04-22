@@ -13,7 +13,7 @@ export interface Article {
       id: 1,
       title: "理解 JavaScript 闭包",
       date: "2030-08-10",
-      author: "奶龙",
+      author: "永雏塔菲",
       summary: "闭包是JavaScript中最重要的概念之一，本文带你彻底理解闭包原理及应用。",
       contentSections: [
         { title: "什么是闭包？", text: "闭包是指有权访问另一个函数作用域中的变量的函数。创建闭包的常见方式是在一个函数内部创建另一个函数。" },
