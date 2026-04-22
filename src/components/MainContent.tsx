@@ -8,7 +8,7 @@ const MainContent: React.FC = () => {
       <article className={styles.article}>
         <header className={styles.articleHeader}>
           <h2>理解 JavaScript 闭包</h2>
-          <p>发布于 <time dateTime="2026-03-26">2026年3月26日</time> by 李和迅</p>
+          <p>发布于 <time dateTime="2026-03-26">2026年3月26日</time> by 永雏塔菲</p>
         </header>
 
         {/* 使用 section 划分章节 */}
@@ -40,7 +40,7 @@ const MainContent: React.FC = () => {
       <article className={styles.article}>
         <header className={styles.articleHeader}>
           <h2>CSS Grid 入门</h2>
-          <p>发布于 <time dateTime="2026-03-26">2026年3月26日</time> by 黄宇佳</p>
+          <p>发布于 <time dateTime="2026-03-26">2026年3月26日</time> by 东雪莲</p>
         </header>
         <section className={styles.section}>
           <p>Grid 是二维布局系统，可同时处理行和列...（省略具体内容）</p>
