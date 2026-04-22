@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import styles from './Sidebar.module.css';
-import reactSvg from '../assets/xiaoxin.jpg';
+import reactSvg from '../assets/asuka.jpg';
 import pzPng from '../assets/xiaomi.jpg';
-import baiduPng from '../assets/xiaomicar.jpg';
+import baiduPng from '../assets/nike.jpg';
 // 定义 Props 类型，包含一个可选的函数
 interface SidebarProps {
  onSubscribe?: (email: string) => void; // 接收一个函数，参数为邮箱，无返回值
