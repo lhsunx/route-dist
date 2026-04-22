@@ -46,10 +46,10 @@ const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
  <div className={styles.authorInfo}>
  <img
  src={reactSvg}
- alt="李和迅"
+ alt="原神牛逼"
  className={styles.avatar}
  />
- <p>李和迅，数据科学与计算机学院的一名网络工程专业的学生，喜爱打羽毛球。</p>
+ <p>原神牛逼，数据科学与计算机学院的一名网络工程专业的学生。</p>
  </div>
  </section>
  {/* 在某个位置显示当前时间，作为演示 */}
