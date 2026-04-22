@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import styles from './Sidebar.module.css';
-import reactSvg from '../assets/asuka.jpg';
+import reactSvg from '../assets/anon.jpg';
 import pzPng from '../assets/xiaomi.jpg';
 import baiduPng from '../assets/nike.jpg';
 // 定义 Props 类型，包含一个可选的函数
